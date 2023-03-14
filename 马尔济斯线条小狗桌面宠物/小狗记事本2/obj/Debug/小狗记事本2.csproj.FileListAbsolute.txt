@@ -1,0 +1,11 @@
+D:\vs2022 projects\WPF\小狗记事本2\bin\Debug\小狗记事本2.exe.config
+D:\vs2022 projects\WPF\小狗记事本2\bin\Debug\小狗记事本2.exe
+D:\vs2022 projects\WPF\小狗记事本2\bin\Debug\小狗记事本2.pdb
+D:\vs2022 projects\WPF\小狗记事本2\obj\Debug\小狗记事本2.csproj.AssemblyReference.cache
+D:\vs2022 projects\WPF\小狗记事本2\obj\Debug\小狗记事本2.csproj.SuggestedBindingRedirects.cache
+D:\vs2022 projects\WPF\小狗记事本2\obj\Debug\小狗记事本2.小狗记事本.resources
+D:\vs2022 projects\WPF\小狗记事本2\obj\Debug\小狗记事本2.Properties.Resources.resources
+D:\vs2022 projects\WPF\小狗记事本2\obj\Debug\小狗记事本2.csproj.GenerateResource.cache
+D:\vs2022 projects\WPF\小狗记事本2\obj\Debug\小狗记事本2.csproj.CoreCompileInputs.cache
+D:\vs2022 projects\WPF\小狗记事本2\obj\Debug\小狗记事本2.exe
+D:\vs2022 projects\WPF\小狗记事本2\obj\Debug\小狗记事本2.pdb
